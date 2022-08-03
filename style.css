@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+    background: url(space.jpg) no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+
+.bankai{
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 300px;
+    overflow-y: auto;
+    padding-top: 250px;
+    padding-bottom: 20px;
+    
+}
+input{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    
+}
+
+    
+
+button{
+    border: none;
+    padding: 10px 30px;
+    
+    
+    border-radius: 5px;
+    
+    color: white;
+    margin: 10px 0px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;    
+    background: url(s.jpg) no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
